@@ -1,6 +1,10 @@
 # Ejercicio de lógica difusa
 Ejercicio de **Lógica Difusa** en el programa *CLIPS*.
 
+Realizado por:
+- Hugo Peralta Muñoz.
+- José Antonio García Antona.
+
 En este repositorio encontraremos dos archivos distintos, `bc_galleta.clp` y `bh_galleta.clp` lo cuáles son la base de conocimiento y la base de hechos de nuestro problema respectivamente.
 
 ## Caso de Uso
